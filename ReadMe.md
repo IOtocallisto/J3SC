@@ -1,0 +1,15 @@
+# 💫 About Me:
+👋 Hello, I'm Daniel Orji!<br>I'm an IT Technical Specialist and aspiring entrepreneur with a passion for automation, cybersecurity, and data analysis. Currently working on building an online IT business, J3scandjove, I aim to deliver secure, reliable IT solutions that empower individuals and small businesses to thrive in a technology-driven world.<br>🔧 What I Do:<br>Automation Enthusiast: I use platforms like Make.com to streamline processes, boost productivity, and make workflows more efficient.<br>Data Analytics: Turning raw data into valuable insights with tools like Python, SQL, and Power BI.<br>Cybersecurity Professional: Skilled in ensuring information security, conducting penetration tests, and creating secure systems for business and personal projects.<br>💡 Currently Learning:<br>Computer Science University Major to solidify my Academic skills and explore further the world of technology.<br>Advanced AI and Machine Learning to drive intelligent decision-making for my automation systems.<br>Philosophy and Systems Thinking to better understand how small parts contribute to larger complex systems—like cells forming life or governments shaping civilizations.<br>🌱 In Progress:<br>Research Project: "How Things Work"—exploring how small systems evolve into larger, complex entities on a cosmic scale.<br>Developing courses to democratize IT education through J3scandjove’s private community, making it accessible for people from all walks of life.<br>📫 How to Reach Me:<br>LinkedIn<br>Twitter<br>Email<br><br>
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IOtocallisto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IOtocallisto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IOtocallisto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IOtocallisto&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
